@@ -1,6 +1,6 @@
 # Road-Accident-Analysis(Excel)
 # 📊 Road Accident Analysis
-<a href="#">View Dashboard</a> OR <a href="#f">View Project</a>
+<a href="https://github.com/Tamang-Ajay/Road-Accident-Analysis-Excel-Project/blob/main/dashboard.png">View Dashboard</a> OR <a href="https://github.com/Tamang-Ajay/Road-Accident-Analysis-Excel-Project/blob/main/RoadAccidentAnalysis.pdf">View Project</a>
 
 ## 📌Overview:
 I developed an interactive dashboard to analyze road accident data, focusing on vehicle types, road conditions, and casualty numbers. The aim was to reveal trends and support better road safety strategies.
@@ -21,7 +21,7 @@ The dashboard helps to identify trends, improve safety planning, and make data-d
 This project helped me build confidence and apply my Excel skills to analyze real-world road accident data in a meaningful and practical way.
 
 ## ❗ Note
-The Excel file is **not included** but sample is provided to prevent misuse or duplication. <a href=""> View Sample File</a>
+The Excel file is **not included** but sample is provided to prevent misuse or duplication. <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FTamang-Ajay%2FRoad-Accident-Analysis-Excel-Project%2Frefs%2Fheads%2Fmain%2Fdatasets.xlsx&wdOrigin=BROWSELINK"> View Sample File</a>
 
 📩 *If you'd like to review the file, feel free to reach out to me directly.*
 
